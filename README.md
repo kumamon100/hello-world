@@ -7,3 +7,5 @@
 -people
 
 kurayaibuki
+
+サーバー上での編集したよ
